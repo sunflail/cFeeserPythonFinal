@@ -3,7 +3,7 @@ final Python project
 
 * Clone the repo
 * Create a .env in the same directory
-* Add the key: NASA_API=<your-api-key-here>
+* Add the key: NASA_API=your-api-key-here
 
 # Usage
 Very simple tKinter example that will run any of the included python files when the name of the module is typed into the entry field and the run me button pressed.
