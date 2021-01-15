@@ -10,7 +10,7 @@ Very simple tKinter example that will run any of the included python files when 
 
 Included:
 * apod - Nasa Pic of Day, will add the image to the tkinter window
-* astroapi - Nasa astronauts in space api
+* astroapi - Nasa astronauts in space, courtesy of open-notify.org
 * calculator - basic calculator, will run in terminal and result sent back to tkinter
 * nasaapis - Various NASA api calls, please read the script for more information
 * roverpics.txt - example file of data generated during the nasaapis script
