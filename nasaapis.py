@@ -105,7 +105,7 @@ def main():
     :return: Finished string to display something in tkinter
     """
     # grab start date from input
-    startdate = input('Please enter your start date(YYYY-MM-DD): ')
+    startdate = input('Please enter your birthday(YYYY-MM-DD): ')
     # configure end date
     enddate = config_end_day_for_neo(startdate)
     # perform the actual api call

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from tkinter import Tk, Entry, Label, Message, Button
 from PIL import Image, ImageTk
-import calculator, astroapi, nasaapis, apod
+import calculator, astroapi, nasaapis, apod, tkinterLearning
 import sys, io
 
 
